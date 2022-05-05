@@ -1,0 +1,5 @@
+Projet ayant pour but de réaliser un Sokoban en utilisant la ncurses.
+(projet non terminé).
+
+Pour lancer le jeu : ./mysokoban map
+Pour voir les règles : ./mysokoban -h
